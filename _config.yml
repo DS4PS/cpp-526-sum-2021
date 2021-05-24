@@ -53,7 +53,7 @@ header:
 
 url :               "https://ds4ps.github.io"
 baseurl:            "/cpp-526-sum-2021"
-course_url:         "http://ds4ps.org/cpp-526-um-2021/"
+course_url:         "http://ds4ps.org/cpp-526-sum-2021/"
 title:              DS4PS # don't change this
 
 github_info:
