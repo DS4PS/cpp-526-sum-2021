@@ -31,6 +31,7 @@ instructor:
    scholar_url: 
    linked_in_url: 'https://www.linkedin.com/in/jamisoncrawford/'
    office_hours_time: See Schedule
+   office_hours_app_url:
    office_hours_location: Zoom
    
 
