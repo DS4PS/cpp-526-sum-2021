@@ -7,27 +7,27 @@ canvas:
   yellowdig_url: 'https://canvas.asu.edu/courses/67636/assignments/1615950'
   
 lab-due-dates:
-  lab-01: 'WED Aug 26th'
-  lab-02: 'WED Sep 2nd'
-  lab-03: 'WED Sep 9th'
-  lab-04: 'WED Sep 16th'
-  lab-05: 'WED Sep 23rd'
-  lab-06: 'WED Sep 30th'
+  lab-01: 'SAT July 10'
+  lab-02: 'SAT July 17'
+  lab-03: 'SAT July 24'
+  lab-04: 'SAT July 31'
+  lab-05: 'SAT August 7'
+  lab-06: '(Optional)'
  
 discussion-dates:
-  topic-00: 'FRI Aug 21st'
-  topic-01: 'FRI Aug 28th'
-  topic-02: 'FRI Sept 4th'
-  topic-03: 'FRI Sept 11th'
-  topic-04: 'FRI Sept 18th'
-  topic-05: 'FRI Sept 25th'
-  topic-06: 'FRI Oct 2nd'
+  topic-00: 'FRI July 2'
+  topic-01: 'FRI July 9'
+  topic-02: 'FRI July 16'
+  topic-03: 'FRI July 23'
+  topic-04: 'FRI July 30'
+  topic-05: 'FRI Aug 6'
+  topic-06: 'FRI Aug 10'
   
 final-project:
-  due-date: 'FRI Oct 9th'
+  due-date: 'FRI Aug 10th'
 
 code-through:
-  due-date: 'FRI Oct 9th'
+  due-date: 'FRI Aug 10th'
   
 ---
  
