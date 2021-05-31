@@ -13,14 +13,12 @@ info:
  course_title: Foundations of Data Science Part I
  course_number: CPP 526 
  course_level: Graduate 
- course_website: 'https://canvas.asu.edu/courses/54986'
- course_start_end_dates: Aug 20th to Oct 4th, 2020
+ course_website: 'https://canvas.asu.edu/courses/88304'
+ course_start_end_dates: June 30 - August 10, 2021
  course_prerequisites:  
  class_meets_when:  Asynchronous  
- class_meets_where:  'https://asu.zoom.us/j/944016877'
- review_sessions_when: TBA 
- review_sessions_where: Zoom
- discussion_board_url: 'https://ds4ps.org/cpp-526-fall-2020/help/'
+ class_meets_where:  Online
+ discussion_board_url: 'https://ds4ps.org/cpp-526-sum-2021/help/'
 
 instructor:
 -  name: Jamison Crawford
@@ -32,9 +30,9 @@ instructor:
    twitter_url: 
    scholar_url: 
    linked_in_url: 'https://www.linkedin.com/in/jamisoncrawford/'
-   office_hours_time: 'https://calendly.com/jamisoncrawford/30'
+   office_hours_time: See Schedule
    office_hours_location: Zoom
-   office_hours_app_url:  
+   office_hours_app_url: 'https://calendly.com/jamisoncrawford/30'
    
 
 textbooks:
@@ -286,7 +284,7 @@ As students are all aware, ASU Online courses are typically offered on a seven a
 
 **Note:** The course instructor may from time to time adjust assigned readings or adjust the due dates for assignment. The basic course content approach and learning objectives will not change, but slight modifications are possible if circumstances warrant an adjustment.
 
-Visit the [**Course Schedule**](https://ds4ps.org/cpp-526-sum-2020/schedule/).
+Visit the [**Course Schedule**](https://ds4ps.org/cpp-526-sum-2021/schedule/).
 
 <br>
 <br>
