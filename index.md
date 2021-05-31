@@ -35,7 +35,7 @@ instructor:
    
 
 textbooks:
-- title: R Cookbook, 2nd Edition.
+- title: R Cookbook, 2nd Edition
   authors: P. Teetor & Teetor, J.
   edition: 2019
   link: https://rc2e.com/
