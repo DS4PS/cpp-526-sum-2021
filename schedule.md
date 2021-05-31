@@ -1351,7 +1351,9 @@ This lab is designed to introduce you to R Shiny by making last week's graphic i
 
 <a class="uk-button uk-button-default" onclick="window.open('https://ds4ps.org/cpp-526-sum-2020/labs/lab-04-instructions.html')">LAB-04 Instructions</a>
 
-Click to download the lab template. Modify and submit using the instructions.
+Click to download the lab template.
+
+**Note:** Rather than submitting a PDF or HTML file, please submit only the R or R Markdown file.  *Please ignore the boilerplate directions in this week's assignment*.
 
 <a class="uk-button uk-button-default" onclick="window.open('https://github.com/DS4PS/cpp-526-sum-2020/blob/master/labs/cpp-526_reformatted-labs/Lab-04-v2-LastName.zip?raw=true')">LAB-04 Template</a>
 
