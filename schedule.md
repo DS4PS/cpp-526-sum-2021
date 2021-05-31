@@ -11,23 +11,23 @@ lab-due-dates:
   lab-02: 'SAT July 17'
   lab-03: 'SAT July 24'
   lab-04: 'SAT July 31'
-  lab-05: 'SAT August 7'
+  lab-05: 'SAT Aug 07'
   lab-06: '(Optional)'
  
 discussion-dates:
-  topic-00: 'FRI July 2'
-  topic-01: 'FRI July 9'
+  topic-00: 'FRI July 02'
+  topic-01: 'FRI July 09'
   topic-02: 'FRI July 16'
   topic-03: 'FRI July 23'
   topic-04: 'FRI July 30'
-  topic-05: 'FRI Aug 6'
+  topic-05: 'FRI Aug 06'
   topic-06: 'FRI Aug 10'
   
 final-project:
-  due-date: 'FRI Aug 10th'
+  due-date: 'FRI Aug 10'
 
 code-through:
-  due-date: 'FRI Aug 10th'
+  due-date: 'FRI Aug 10'
   
 ---
  
