@@ -32,7 +32,7 @@ instructor:
    twitter_url: 
    scholar_url: 
    linked_in_url: 'https://www.linkedin.com/in/jamisoncrawford/'
-   office_hours_time: Flexible
+   office_hours_time: 'https://calendly.com/jamisoncrawford/30'
    office_hours_location: Zoom
    office_hours_app_url:  
    
