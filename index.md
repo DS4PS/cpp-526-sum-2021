@@ -32,7 +32,6 @@ instructor:
    linked_in_url: 'https://www.linkedin.com/in/jamisoncrawford/'
    office_hours_time: See Schedule
    office_hours_location: Zoom
-   office_hours_app_url: 'https://calendly.com/jamisoncrawford/30'
    
 
 textbooks:
