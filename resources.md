@@ -6,6 +6,21 @@ layout: default
   
 <br><br>
 
+
+
+**Join the MS-PEDA Community**
+
+Join the MS-PEDA groups on Linked-In or Facebook to meet alumni and stay connected to the program. 
+
+[LINKED-IN GROUP](https://www.linkedin.com/groups/13977637/)
+
+[FACEBOOK GROUP](https://www.facebook.com/groups/507960480629680)
+
+<br>
+<hr>
+<br>
+
+
 # Resources
 
 Here are some resources to get you started with the course and to help with projects, as well as offer background on cool data science projects in the social sector.
@@ -165,21 +180,6 @@ For those that are new to data science, I have compiled some useful resources fo
 <br>
 <br>
 
-
-<a href="https://raw.githubusercontent.com/DS4PS/cpp-529-master/master/labs/lab-03-tutorial.rmd" download="lab-03-tutorial.rmd"> TEST1 </a>
-
-<button type="submit" onclick="window.open('https://raw.githubusercontent.com/DS4PS/cpp-529-master/master/labs/lab-03-tutorial.rmd')"> TEST2 </button>
-
-<form method="get" action="https://raw.githubusercontent.com/DS4PS/cpp-529-master/master/labs/lab-03-tutorial.rmd">
-   <button type="submit"> TEST3 </button>
-</form>
-
-<a class="btn btn-danger" role="button" href="https://raw.githubusercontent.com/DS4PS/cpp-529-master/master/labs/lab-03-tutorial.rmd"
-   download="lab-03-tutorial.rmd">
-  TEST4
-</a>
-
-<button type="submit" onclick="window.location.href='file.doc'"> TEST5 </button>
 
 
 </div>
