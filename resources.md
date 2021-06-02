@@ -13,6 +13,10 @@ layout: default
 
 Join the MS-PEDA groups on Linked-In or Facebook to meet alumni and stay connected to the program. 
 
+<a class="uk-button uk-button-default" onclick="window.open('https://www.linkedin.com/groups/13977637/')"> LinkedIn Group </a>
+
+<a class="uk-button uk-button-primary" onclick="window.open('https://www.facebook.com/groups/507960480629680')"> Facebook Group </a>
+
 <button type="submit" onclick="window.open('https://www.linkedin.com/groups/13977637/')"> LinkedIn Group </button>
 
 <button type="submit" onclick="window.open('https://www.facebook.com/groups/507960480629680')"> Facebook Group </button>
