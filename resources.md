@@ -4,9 +4,10 @@ layout: default
 
 <div class = "uk-container uk-container-small">
   
-<br><br>
-
-
+<br>
+<br>
+<hr>
+<br>
 
 **Join the MS-PEDA Community**
 
