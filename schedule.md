@@ -3,8 +3,8 @@ layout: schedule
 title: Schedule
 
 canvas: 
-  assignment_url: 'https://canvas.asu.edu/courses/67636/assignments'
-  yellowdig_url: 'https://canvas.asu.edu/courses/67636/assignments/1615950'
+  assignment_url: 'https://canvas.asu.edu/courses/88304/assignments'
+  yellowdig_url: 'https://canvas.asu.edu/courses/88304/assignments/2253262'
   
 lab-due-dates:
   lab-01: 'SAT July 10'
