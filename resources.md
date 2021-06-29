@@ -44,7 +44,7 @@ Tutorials from Rexercises [ [link](https://www.r-exercises.com/start-here-to-lea
 
 ## The Data Science Ecosystem
 
-Pete Warden created one of the first [data science toolkits](http://www.datasciencetoolkit.org/), which is a collection of open-source tools for common tasks in data science like turning street addresses into geo-coordinates, extracting sentiments from text, and identifying people's names in documents. The original toolkit started out as a simple website with a couple of dozen of these tools.
+Pete Warden created one of the first **data science toolkits**, which was a collection of open-source tools for common tasks in data science like turning street addresses into geo-coordinates, extracting sentiments from text, and identifying people's names in documents. The original toolkit started out as a simple website with a couple of dozen of these tools (the original website is defunct but you can still use the tools through the [RDSTK Package](https://cran.r-project.org/web/packages/RDSTK/RDSTK.pdf) ).
 
 The R community has taken this to another scale. There are currently 13,000 free and open-source packages available in R. It is better to think about R as an operating system, and the contributed packages as the programs you use for specific tasks. 
 
