@@ -12,7 +12,7 @@ lab-due-dates:
   lab-03: 'SAT July 24'
   lab-04: 'SAT July 31'
   lab-05: 'SAT Aug 07'
-  lab-06: '(Optional)'
+  lab-06: 'FRI August 10'
  
 discussion-dates:
   topic-00: 'FRI July 02'
