@@ -952,7 +952,7 @@ Mine, personally, was the package that allows you to create comic strip graphics
 
 Take note, this assignment asks you to explore a new community where the technical language is unfamiliar and the volume of information vast. There are currently over 15,000 packages available in R! Part of the goal of the assignment is to recognize the sheer volume of creativity in the R community and the scope of work that can be done with the language. But the immediate learning objective is to find some sources that make the content accessible. Here are a few to get you started:
 
-[awesome r](https://awesome-r.com/)
+[awesome r](https://github.com/qinwf/awesome-R)
 
 [cran views](https://cran.r-project.org/web/views/)
 
