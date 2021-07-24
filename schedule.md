@@ -21,13 +21,13 @@ discussion-dates:
   topic-03: 'FRI July 23'
   topic-04: 'FRI July 30'
   topic-05: 'FRI Aug 06'
-  topic-06: 'FRI Aug 10'
+  topic-06: 'TUE Aug 10'
   
 final-project:
-  due-date: 'FRI Aug 10'
+  due-date: 'TUE Aug 10'
 
 code-through:
-  due-date: 'FRI Aug 10'
+  due-date: 'TUE Aug 10'
   
 ---
  
